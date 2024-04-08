@@ -15,7 +15,7 @@ Passionate about leveraging technical skills to tackle real-world challenges thr
 - Exploring cutting-edge innovations in zero knowledge machine learning(ZKML).
   
  🌐 Let's Connect:
-- Excited to connect with like-minded professionals, mentors, and enthusiasts in the tech community. Open to collaboration, learning opportunities, and engaging discussions on the future of AI and its application.
+- Excited to connect with like-minded professionals, mentors, and enthusiasts in the tech community. Open to collaboration, learning opportunities, and engaging discussions.
 
 ### Skills 
 <p align="left">
