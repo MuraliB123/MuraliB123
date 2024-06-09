@@ -11,8 +11,6 @@ Passionate about leveraging technical skills to tackle real-world challenges thr
 - Expertise in designing and implementing data preprocessing techniques for diverse datasets.
 - Skilled in developing APIs for seamless integration and deployment of machine learning models.
   
- 🔍 Key Interests:
-- Exploring cutting-edge innovations in zero knowledge machine learning(ZKML).
   
  🌐 Let's Connect:
 - Excited to connect with like-minded professionals, mentors, and enthusiasts in the tech community. Open to collaboration, learning opportunities, and engaging discussions.
