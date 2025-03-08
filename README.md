@@ -1,19 +1,10 @@
 Hi 👋 My name is Murali B
 =========================
+Passionate about applying AI and automation to solve business problems.
+Experienced in building Machine learning systems for automation workflows and NLP-based analysis.
+Currently working with diffusion models for personalized meta-human creation.
+Open to new opportunities and collaborations.
 
-Machine Learning Engineer
--------------------------
-
-Passionate about leveraging technical skills to tackle real-world challenges through innovative solutions. 
-
- 🔧 Hands-On Experience:
-- Proficient in C++ , Python, Flask, TensorFlow and keras.
-- Expertise in designing and implementing data preprocessing techniques for diverse datasets.
-- Skilled in developing APIs for seamless integration and deployment of machine learning models.
-  
-  
- 🌐 Let's Connect:
-- Excited to connect with like-minded professionals, mentors, and enthusiasts in the tech community. Open to collaboration, learning opportunities, and engaging discussions.
 
 ### Skills 
 <p align="left">
