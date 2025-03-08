@@ -1,7 +1,7 @@
-1.Passionate about applying AI and automation to solve business problems.
-2.Experienced in building Machine learning systems for automation workflows and NLP-based analysis.
-3.Currently working with diffusion models for personalized meta-human creation.
-4.Open to new opportunities and collaborations.
+Passionate about applying AI and automation to solve business problems.
+Experienced in building Machine learning systems for automation workflows and NLP-based analysis.
+Currently working with diffusion models for personalized meta-human creation.
+Open to new opportunities and collaborations.
 
 
 ### Skills 
