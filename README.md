@@ -1,4 +1,4 @@
-Experienced in building Machine learning systems for automation workflows and NLP systems.
+Experienced in building Machine learning systems for automation workflows and data systems.
 
 
 ### Skills 
