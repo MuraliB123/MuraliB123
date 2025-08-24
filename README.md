@@ -1,4 +1,3 @@
-Passionate about applying AI and automation to solve business problems.
 Experienced in building Machine learning systems for automation workflows and NLP systems.
 
 
